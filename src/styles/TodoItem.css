@@ -1,0 +1,24 @@
+
+
+.TodoItem-p{
+    width: 95%;
+}
+.TodoItem-p--complete {
+    text-decoration: line-through;
+}
+
+
+.Icon-delete {
+    position: absolute;
+    margin-left: 1rem;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    top: .5rem;
+    right: 1rem;
+
+}
+.Icon-delete:hover {
+    color: red;
+  }
+
