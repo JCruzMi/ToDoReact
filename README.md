@@ -1,6 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/71527bb5-11fa-4610-a424-b22d85742a16/deploy-status)](https://app.netlify.com/sites/huan-todo-react/deploys)
 
-![](https://media.discordapp.net/attachments/804511906735718421/896117467712196678/unknown.png?width=494&height=656)
+[Demo](https://huan-pokedex.netlify.app)
+
+![](https://media.discordapp.net/attachments/804511906735718421/896117571319922688/unknown.png?width=558&height=656)
 
 # Getting Started with Create React App
 
